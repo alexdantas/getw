@@ -1,0 +1,21 @@
+--------------------------------------------------------------------------------
+                        getw - Recuperador de paginas WEB
+--------------------------------------------------------------------------------
+
+Um programa simples que recupera paginas da web atraves do protocolo HTTP
+versao 1.0.
+
+    - Recebe como parametros a URI da pagina e o nome do arquivo local onde
+      vamos salvar essa pagina. Esses dois parametros sao obrigatorios.
+    - Como parametros opcionais, pode receber:
+        * -u    Mostrar modo de uso do programa. Sai imediatamente.
+        * -h    Mosdtrar ajuda do programa. Sai imediatamente.
+        * -v    Modo verboso. Continua a execucao normalmente.
+        * -V    Modo extra verboso. Continua a execucao normalmente.
+        * -f    Sobrescreve o arquivo local, caso exista um com o mesmo nome.
+
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------

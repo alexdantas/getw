@@ -1,0 +1,55 @@
+
+--------------------------------------------------------------------------------
+19/12/2011
+
+  * Correcao do erro final: recv() agora passa a ser chamado multiplas vezes.
+  * Finalizacao do programa. Versao 1.0 lancada.
+
+--------------------------------------------------------------------------------
+16/12/2011
+
+  * Integracao entre os modulos, documentacao e correcao de erros resultantes.
+
+--------------------------------------------------------------------------------
+15/12/2011
+
+  * Criação e finalizacao do modulo file: lida com operacoes de arquivos.
+
+--------------------------------------------------------------------------------
+14/12/2011
+
+  * Renomear modulos: args para arguments, http para network.
+
+--------------------------------------------------------------------------------
+13/12/2011
+
+  * Adequacao do codigo a padroes da Aker: completo.
+  * Criacao do modulo text, para gerenciar strings.
+  * Finalizacao do modulo http.
+
+--------------------------------------------------------------------------------
+12/12/2011
+
+  * Parsing da string recebida pela linha de comando: Separacao entre nome
+                                                      do host e nome do arquivo
+                                                      remoto.
+  * Correcao de pequenos bugs.
+  * Documentacao do codigo.
+
+--------------------------------------------------------------------------------
+08/12/2011
+
+  * Conexao com host feita: Sockets prontos.
+
+--------------------------------------------------------------------------------
+06/12/2011
+
+  * Criação dos módulos main e args.
+  * Modulo args completo: Agora receber argumentos da linha de comando funciona.
+
+--------------------------------------------------------------------------------
+05/12/2011  Alexandre Dantas <alex.dantas92@gmail.com>
+
+  * Inicio do projeto
+
+--------------------------------------------------------------------------------
